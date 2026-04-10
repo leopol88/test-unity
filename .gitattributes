@@ -1,0 +1,15 @@
+* text=auto
+
+# Unity YAML files should use LF
+*.meta text eol=lf
+*.unity text eol=lf
+*.asset text eol=lf
+*.mat text eol=lf
+*.anim text eol=lf
+*.controller text eol=lf
+*.prefab text eol=lf
+*.physicsMaterial2D text eol=lf
+*.physicMaterial text eol=lf
+*.overrideController text eol=lf
+*.spriteatlas text eol=lf
+*.terrainlayer text eol=lf
